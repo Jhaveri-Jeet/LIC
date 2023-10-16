@@ -29,13 +29,6 @@ Before you start, make sure you have the following software installed:
    ```sh
    git clone https://github.com/yourusername/LIC-Management-Software.git
    ```
-2. [Additional installation steps, if any]
-
-## Usage
-
-1. Launch the software.
-2. [Provide usage instructions here]
-3. [Add screenshots or GIFs to demonstrate the software's functionality]
 
 ## Contributing
 
