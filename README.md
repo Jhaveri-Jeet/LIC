@@ -1,3 +1,5 @@
+![Screenshot 2023-10-16 230604](https://github.com/Jhaveri-Jeet/LIC/assets/114752089/83b9cefc-f146-4466-986b-684b90a60b41)
+
 # LIC Management Software
 
 **LIC Management Software** is a comprehensive tool designed to streamline and simplify the management of LIC (Life Insurance Corporation) policies for insurance managers. This software offers a user-friendly interface and powerful features, allowing insurance managers to efficiently handle various aspects of their work.
